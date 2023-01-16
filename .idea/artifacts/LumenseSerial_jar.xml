@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="LumenseSerial:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/LumenseSerial_jar</output-path>
+    <root id="archive" name="LumenseSerial.jar">
+      <element id="module-output" name="LumenseSerial" />
+      <element id="module-test-output" name="LumenseSerial" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/fazecast/jSerialComm/2.9.3/jSerialComm-2.9.3.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
